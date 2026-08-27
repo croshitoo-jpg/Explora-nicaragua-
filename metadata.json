@@ -1,0 +1,6 @@
+{
+  "name": "Explora Nicaragua - Lugares y Rutas",
+  "description": "Aplicación interactiva para descubrir los mejores destinos turísticos de Nicaragua, explorar rutas por departamentos y planificar viajes con mapa interactivo y asistente IA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
